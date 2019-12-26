@@ -1,0 +1,903 @@
+2019-11-16 00:01:12 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:01:12 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 00:01:12 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:01:12 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 00:01:12 -Starting AppApplication on DESKTOP-BB5494M with PID 5188 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 00:01:12 -No active profile set, falling back to default profiles: default
+2019-11-16 00:01:12 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 00:01:12 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:01:12 -Starting service [Tomcat]
+2019-11-16 00:01:12 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 00:01:12 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 00:01:12 -Initializing Spring embedded WebApplicationContext
+2019-11-16 00:01:13 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 00:01:13 -Using default implementation for ThreadExecutor
+2019-11-16 00:01:13 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 00:01:13 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 00:01:13 -RAMJobStore initialized.
+2019-11-16 00:01:13 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 00:01:13 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 00:01:13 -Quartz scheduler version: 2.3.2
+2019-11-16 00:01:13 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@10176435
+2019-11-16 00:01:13 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 00:01:13 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:01:13 -Started AppApplication in 0.613 seconds (JVM running for 310.962)
+2019-11-16 00:01:27 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:01:27 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 00:01:27 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:01:27 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 00:01:28 -Starting AppApplication on DESKTOP-BB5494M with PID 5188 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 00:01:28 -No active profile set, falling back to default profiles: default
+2019-11-16 00:01:28 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 00:01:28 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:01:28 -Starting service [Tomcat]
+2019-11-16 00:01:28 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 00:01:28 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 00:01:28 -Initializing Spring embedded WebApplicationContext
+2019-11-16 00:01:28 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 00:01:29 -Using default implementation for ThreadExecutor
+2019-11-16 00:01:29 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 00:01:29 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 00:01:29 -RAMJobStore initialized.
+2019-11-16 00:01:29 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 00:01:29 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 00:01:29 -Quartz scheduler version: 2.3.2
+2019-11-16 00:01:29 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@5dff2b06
+2019-11-16 00:01:29 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 00:01:29 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:01:29 -Started AppApplication in 1.02 seconds (JVM running for 327.075)
+2019-11-16 00:01:52 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:01:52 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 00:01:52 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:01:52 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 00:01:52 -Starting AppApplication on DESKTOP-BB5494M with PID 5188 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 00:01:52 -No active profile set, falling back to default profiles: default
+2019-11-16 00:01:53 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 00:01:53 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:01:53 -Starting service [Tomcat]
+2019-11-16 00:01:53 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 00:01:53 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 00:01:53 -Initializing Spring embedded WebApplicationContext
+2019-11-16 00:01:53 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 00:01:53 -Using default implementation for ThreadExecutor
+2019-11-16 00:01:53 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 00:01:53 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 00:01:53 -RAMJobStore initialized.
+2019-11-16 00:01:53 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 00:01:53 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 00:01:53 -Quartz scheduler version: 2.3.2
+2019-11-16 00:01:53 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@754fc22
+2019-11-16 00:01:53 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 00:01:53 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:01:53 -Started AppApplication in 0.535 seconds (JVM running for 351.21)
+2019-11-16 00:02:06 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-16 00:14:37 -Starting AppApplication on DESKTOP-BB5494M with PID 10540 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 00:14:37 -No active profile set, falling back to default profiles: default
+2019-11-16 00:14:39 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:14:39 -Starting service [Tomcat]
+2019-11-16 00:14:39 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 00:14:39 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 00:14:39 -Initializing Spring embedded WebApplicationContext
+2019-11-16 00:14:40 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 00:14:40 -Using default implementation for ThreadExecutor
+2019-11-16 00:14:40 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 00:14:40 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 00:14:40 -RAMJobStore initialized.
+2019-11-16 00:14:40 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 00:14:40 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 00:14:40 -Quartz scheduler version: 2.3.2
+2019-11-16 00:14:40 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@1b5eed60
+2019-11-16 00:14:41 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 00:14:41 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:14:41 -Started AppApplication in 4.228 seconds (JVM running for 4.868)
+2019-11-16 00:17:05 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:17:05 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 00:17:05 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:17:05 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 00:17:05 -Starting AppApplication on DESKTOP-BB5494M with PID 10540 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 00:17:05 -No active profile set, falling back to default profiles: default
+2019-11-16 00:17:06 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 00:17:06 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:17:06 -Starting service [Tomcat]
+2019-11-16 00:17:06 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 00:17:06 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 00:17:06 -Initializing Spring embedded WebApplicationContext
+2019-11-16 00:17:06 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 00:17:06 -Using default implementation for ThreadExecutor
+2019-11-16 00:17:06 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 00:17:06 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 00:17:06 -RAMJobStore initialized.
+2019-11-16 00:17:06 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 00:17:06 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 00:17:06 -Quartz scheduler version: 2.3.2
+2019-11-16 00:17:06 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@2c3b3041
+2019-11-16 00:17:06 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 00:17:06 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:17:06 -Started AppApplication in 0.916 seconds (JVM running for 150.251)
+2019-11-16 00:17:39 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-16 00:34:25 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:34:25 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 00:34:25 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:34:25 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 00:34:25 -Starting AppApplication on DESKTOP-BB5494M with PID 10540 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 00:34:25 -No active profile set, falling back to default profiles: default
+2019-11-16 00:34:26 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 00:34:26 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:34:26 -Starting service [Tomcat]
+2019-11-16 00:34:26 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 00:34:26 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 00:34:26 -Initializing Spring embedded WebApplicationContext
+2019-11-16 00:34:26 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 00:34:26 -Using default implementation for ThreadExecutor
+2019-11-16 00:34:26 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 00:34:26 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 00:34:26 -RAMJobStore initialized.
+2019-11-16 00:34:26 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 00:34:26 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 00:34:26 -Quartz scheduler version: 2.3.2
+2019-11-16 00:34:26 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@5b66a6eb
+2019-11-16 00:34:26 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 00:34:26 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:34:26 -Started AppApplication in 0.874 seconds (JVM running for 1190.077)
+2019-11-16 00:37:39 -Starting AppApplication on DESKTOP-BB5494M with PID 10292 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 00:37:39 -No active profile set, falling back to default profiles: default
+2019-11-16 00:37:40 -http://javax.xml.XMLConstants/property/accessExternalDTD property not supported by org.apache.xerces.jaxp.DocumentBuilderFactoryImpl
+2019-11-16 00:37:40 -http://javax.xml.XMLConstants/property/accessExternalSchema property not supported by org.apache.xerces.jaxp.DocumentBuilderFactoryImpl
+2019-11-16 00:37:41 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:37:41 -Starting service [Tomcat]
+2019-11-16 00:37:41 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 00:37:41 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 00:37:41 -Initializing Spring embedded WebApplicationContext
+2019-11-16 00:37:42 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 00:37:42 -Using default implementation for ThreadExecutor
+2019-11-16 00:37:42 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 00:37:42 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 00:37:42 -RAMJobStore initialized.
+2019-11-16 00:37:42 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 00:37:42 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 00:37:42 -Quartz scheduler version: 2.3.2
+2019-11-16 00:37:42 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@2f9bca88
+2019-11-16 00:37:43 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 00:37:43 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:37:43 -Started AppApplication in 4.253 seconds (JVM running for 4.946)
+2019-11-16 00:37:58 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-16 00:39:02 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:39:02 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 00:39:02 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:39:02 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 00:39:02 -Starting AppApplication on DESKTOP-BB5494M with PID 10292 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 00:39:02 -No active profile set, falling back to default profiles: default
+2019-11-16 00:39:03 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 00:39:03 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:39:03 -Starting service [Tomcat]
+2019-11-16 00:39:03 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 00:39:03 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 00:39:03 -Initializing Spring embedded WebApplicationContext
+2019-11-16 00:39:03 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 00:39:03 -Using default implementation for ThreadExecutor
+2019-11-16 00:39:03 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 00:39:03 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 00:39:03 -RAMJobStore initialized.
+2019-11-16 00:39:03 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 00:39:03 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 00:39:03 -Quartz scheduler version: 2.3.2
+2019-11-16 00:39:03 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@2f5e3b27
+2019-11-16 00:39:03 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 00:39:03 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:39:03 -Started AppApplication in 0.923 seconds (JVM running for 85.3)
+2019-11-16 00:39:16 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-16 00:42:13 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:42:13 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 00:42:13 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:42:13 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 00:42:13 -Starting AppApplication on DESKTOP-BB5494M with PID 10292 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 00:42:13 -No active profile set, falling back to default profiles: default
+2019-11-16 00:42:14 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 00:42:14 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:42:14 -Starting service [Tomcat]
+2019-11-16 00:42:14 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 00:42:14 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 00:42:14 -Initializing Spring embedded WebApplicationContext
+2019-11-16 00:42:14 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 00:42:14 -Using default implementation for ThreadExecutor
+2019-11-16 00:42:14 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 00:42:14 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 00:42:14 -RAMJobStore initialized.
+2019-11-16 00:42:14 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 00:42:14 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 00:42:14 -Quartz scheduler version: 2.3.2
+2019-11-16 00:42:14 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@1373fd8
+2019-11-16 00:42:14 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 00:42:14 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:42:14 -Started AppApplication in 0.816 seconds (JVM running for 276.479)
+2019-11-16 00:42:54 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-16 00:47:39 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:47:39 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 00:47:39 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:47:39 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 00:48:26 -Starting AppApplication on DESKTOP-BB5494M with PID 10292 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 00:48:26 -No active profile set, falling back to default profiles: default
+2019-11-16 00:48:27 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 00:48:27 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:48:27 -Starting service [Tomcat]
+2019-11-16 00:48:27 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 00:48:27 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 00:48:27 -Initializing Spring embedded WebApplicationContext
+2019-11-16 00:48:27 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 00:48:27 -Using default implementation for ThreadExecutor
+2019-11-16 00:48:27 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 00:48:27 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 00:48:27 -RAMJobStore initialized.
+2019-11-16 00:48:27 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 00:48:27 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 00:48:27 -Quartz scheduler version: 2.3.2
+2019-11-16 00:48:27 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@53a6de13
+2019-11-16 00:48:27 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 00:48:27 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:48:27 -Started AppApplication in 0.835 seconds (JVM running for 649.499)
+2019-11-16 00:49:17 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:49:17 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 00:49:17 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:49:17 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 00:49:17 -Starting AppApplication on DESKTOP-BB5494M with PID 10292 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 00:49:17 -No active profile set, falling back to default profiles: default
+2019-11-16 00:49:17 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 00:49:17 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:49:17 -Starting service [Tomcat]
+2019-11-16 00:49:17 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 00:49:17 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 00:49:17 -Initializing Spring embedded WebApplicationContext
+2019-11-16 00:49:18 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 00:49:18 -Using default implementation for ThreadExecutor
+2019-11-16 00:49:18 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 00:49:18 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 00:49:18 -RAMJobStore initialized.
+2019-11-16 00:49:18 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 00:49:18 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 00:49:18 -Quartz scheduler version: 2.3.2
+2019-11-16 00:49:18 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@68e5bde9
+2019-11-16 00:49:18 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 00:49:18 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:49:18 -Started AppApplication in 0.727 seconds (JVM running for 699.981)
+2019-11-16 00:50:30 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:50:30 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 00:50:30 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:50:30 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 00:50:30 -Starting AppApplication on DESKTOP-BB5494M with PID 10292 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 00:50:30 -No active profile set, falling back to default profiles: default
+2019-11-16 00:50:30 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 00:50:30 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:50:30 -Starting service [Tomcat]
+2019-11-16 00:50:30 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 00:50:30 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 00:50:30 -Initializing Spring embedded WebApplicationContext
+2019-11-16 00:50:31 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 00:50:31 -Using default implementation for ThreadExecutor
+2019-11-16 00:50:31 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 00:50:31 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 00:50:31 -RAMJobStore initialized.
+2019-11-16 00:50:31 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 00:50:31 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 00:50:31 -Quartz scheduler version: 2.3.2
+2019-11-16 00:50:31 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@6645100b
+2019-11-16 00:50:31 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 00:50:31 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:50:31 -Started AppApplication in 0.702 seconds (JVM running for 772.986)
+2019-11-16 00:50:43 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:50:43 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 00:50:43 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:50:43 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 00:50:44 -Starting AppApplication on DESKTOP-BB5494M with PID 10292 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 00:50:44 -No active profile set, falling back to default profiles: default
+2019-11-16 00:50:44 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 00:50:44 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:50:44 -Starting service [Tomcat]
+2019-11-16 00:50:44 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 00:50:44 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 00:50:44 -Initializing Spring embedded WebApplicationContext
+2019-11-16 00:50:44 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 00:50:44 -Using default implementation for ThreadExecutor
+2019-11-16 00:50:44 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 00:50:44 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 00:50:44 -RAMJobStore initialized.
+2019-11-16 00:50:44 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 00:50:44 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 00:50:44 -Quartz scheduler version: 2.3.2
+2019-11-16 00:50:44 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@92d981a
+2019-11-16 00:50:44 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 00:50:44 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:50:44 -Started AppApplication in 0.592 seconds (JVM running for 786.622)
+2019-11-16 00:54:43 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-16 00:55:52 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:55:52 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 00:55:52 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:55:52 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 00:55:52 -Starting AppApplication on DESKTOP-BB5494M with PID 10292 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 00:55:52 -No active profile set, falling back to default profiles: default
+2019-11-16 00:55:52 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 00:55:52 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:55:52 -Starting service [Tomcat]
+2019-11-16 00:55:52 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 00:55:52 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 00:55:52 -Initializing Spring embedded WebApplicationContext
+2019-11-16 00:55:52 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 00:55:52 -Using default implementation for ThreadExecutor
+2019-11-16 00:55:52 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 00:55:52 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 00:55:52 -RAMJobStore initialized.
+2019-11-16 00:55:52 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 00:55:52 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 00:55:52 -Quartz scheduler version: 2.3.2
+2019-11-16 00:55:52 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@25f14156
+2019-11-16 00:55:53 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 00:55:53 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:55:53 -Started AppApplication in 0.516 seconds (JVM running for 1094.839)
+2019-11-16 00:56:48 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:56:48 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 00:56:48 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:56:48 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 00:56:48 -Starting AppApplication on DESKTOP-BB5494M with PID 10292 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 00:56:48 -No active profile set, falling back to default profiles: default
+2019-11-16 00:56:48 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 00:56:49 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:56:49 -Starting service [Tomcat]
+2019-11-16 00:56:49 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 00:56:49 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 00:56:49 -Initializing Spring embedded WebApplicationContext
+2019-11-16 00:56:49 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 00:56:49 -Using default implementation for ThreadExecutor
+2019-11-16 00:56:49 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 00:56:49 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 00:56:49 -RAMJobStore initialized.
+2019-11-16 00:56:49 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 00:56:49 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 00:56:49 -Quartz scheduler version: 2.3.2
+2019-11-16 00:56:49 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@4727d1ea
+2019-11-16 00:56:49 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 00:56:49 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:56:49 -Started AppApplication in 0.529 seconds (JVM running for 1151.046)
+2019-11-16 00:56:59 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-16 00:57:28 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:57:28 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 00:57:28 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:57:28 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 00:57:28 -Starting AppApplication on DESKTOP-BB5494M with PID 10292 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 00:57:28 -No active profile set, falling back to default profiles: default
+2019-11-16 00:57:28 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 00:57:28 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:57:28 -Starting service [Tomcat]
+2019-11-16 00:57:28 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 00:57:28 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 00:57:28 -Initializing Spring embedded WebApplicationContext
+2019-11-16 00:57:29 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 00:57:29 -Using default implementation for ThreadExecutor
+2019-11-16 00:57:29 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 00:57:29 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 00:57:29 -RAMJobStore initialized.
+2019-11-16 00:57:29 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 00:57:29 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 00:57:29 -Quartz scheduler version: 2.3.2
+2019-11-16 00:57:29 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@5abc65d0
+2019-11-16 00:57:29 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 00:57:29 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:57:29 -Started AppApplication in 0.533 seconds (JVM running for 1190.993)
+2019-11-16 00:57:48 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:57:48 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 00:57:48 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:57:48 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 00:57:49 -Starting AppApplication on DESKTOP-BB5494M with PID 10292 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 00:57:49 -No active profile set, falling back to default profiles: default
+2019-11-16 00:57:49 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 00:57:49 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:57:49 -Starting service [Tomcat]
+2019-11-16 00:57:49 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 00:57:49 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 00:57:49 -Initializing Spring embedded WebApplicationContext
+2019-11-16 00:57:49 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 00:57:49 -Using default implementation for ThreadExecutor
+2019-11-16 00:57:49 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 00:57:49 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 00:57:49 -RAMJobStore initialized.
+2019-11-16 00:57:49 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 00:57:49 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 00:57:49 -Quartz scheduler version: 2.3.2
+2019-11-16 00:57:49 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@131a8427
+2019-11-16 00:57:49 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 00:57:49 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:57:49 -Started AppApplication in 0.516 seconds (JVM running for 1211.546)
+2019-11-16 00:58:00 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-16 00:59:05 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:59:05 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 00:59:05 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:59:05 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 00:59:05 -Starting AppApplication on DESKTOP-BB5494M with PID 10292 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 00:59:05 -No active profile set, falling back to default profiles: default
+2019-11-16 00:59:06 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 00:59:06 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:59:06 -Starting service [Tomcat]
+2019-11-16 00:59:06 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 00:59:06 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 00:59:06 -Initializing Spring embedded WebApplicationContext
+2019-11-16 00:59:06 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 00:59:06 -Using default implementation for ThreadExecutor
+2019-11-16 00:59:06 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 00:59:06 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 00:59:06 -RAMJobStore initialized.
+2019-11-16 00:59:06 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 00:59:06 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 00:59:06 -Quartz scheduler version: 2.3.2
+2019-11-16 00:59:06 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@4f04405d
+2019-11-16 00:59:06 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 00:59:06 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:59:06 -Started AppApplication in 0.498 seconds (JVM running for 1288.223)
+2019-11-16 00:59:23 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:59:23 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 00:59:23 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 00:59:23 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 00:59:23 -Starting AppApplication on DESKTOP-BB5494M with PID 10292 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 00:59:23 -No active profile set, falling back to default profiles: default
+2019-11-16 00:59:23 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 00:59:23 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:59:23 -Starting service [Tomcat]
+2019-11-16 00:59:23 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 00:59:23 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 00:59:23 -Initializing Spring embedded WebApplicationContext
+2019-11-16 00:59:23 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 00:59:24 -Using default implementation for ThreadExecutor
+2019-11-16 00:59:24 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 00:59:24 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 00:59:24 -RAMJobStore initialized.
+2019-11-16 00:59:24 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 00:59:24 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 00:59:24 -Quartz scheduler version: 2.3.2
+2019-11-16 00:59:24 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@b96184a
+2019-11-16 00:59:24 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 00:59:24 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 00:59:24 -Started AppApplication in 0.518 seconds (JVM running for 1305.908)
+2019-11-16 00:59:52 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-16 01:00:19 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 01:00:19 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 01:00:19 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 01:00:19 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 01:00:19 -Starting AppApplication on DESKTOP-BB5494M with PID 10292 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 01:00:19 -No active profile set, falling back to default profiles: default
+2019-11-16 01:00:19 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 01:00:20 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 01:00:20 -Starting service [Tomcat]
+2019-11-16 01:00:20 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 01:00:20 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 01:00:20 -Initializing Spring embedded WebApplicationContext
+2019-11-16 01:00:20 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 01:00:20 -Using default implementation for ThreadExecutor
+2019-11-16 01:00:20 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 01:00:20 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 01:00:20 -RAMJobStore initialized.
+2019-11-16 01:00:20 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 01:00:20 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 01:00:20 -Quartz scheduler version: 2.3.2
+2019-11-16 01:00:20 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@127e754
+2019-11-16 01:00:20 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 01:00:20 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 01:00:20 -Started AppApplication in 0.47 seconds (JVM running for 1362.049)
+2019-11-16 01:00:37 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-16 01:01:01 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 01:01:01 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 01:01:01 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 01:01:01 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 01:01:01 -Starting AppApplication on DESKTOP-BB5494M with PID 10292 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 01:01:01 -No active profile set, falling back to default profiles: default
+2019-11-16 01:01:01 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 01:01:01 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 01:01:01 -Starting service [Tomcat]
+2019-11-16 01:01:01 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 01:01:01 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 01:01:01 -Initializing Spring embedded WebApplicationContext
+2019-11-16 01:01:02 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 01:01:02 -Using default implementation for ThreadExecutor
+2019-11-16 01:01:02 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 01:01:02 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 01:01:02 -RAMJobStore initialized.
+2019-11-16 01:01:02 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 01:01:02 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 01:01:02 -Quartz scheduler version: 2.3.2
+2019-11-16 01:01:02 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@476cce2d
+2019-11-16 01:01:02 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 01:01:02 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 01:01:02 -Started AppApplication in 0.45 seconds (JVM running for 1403.917)
+2019-11-16 01:01:24 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 01:01:24 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 01:01:24 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 01:01:24 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 01:01:25 -Starting AppApplication on DESKTOP-BB5494M with PID 10292 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 01:01:25 -No active profile set, falling back to default profiles: default
+2019-11-16 01:01:25 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 01:01:25 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 01:01:25 -Starting service [Tomcat]
+2019-11-16 01:01:25 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 01:01:25 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 01:01:25 -Initializing Spring embedded WebApplicationContext
+2019-11-16 01:01:25 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 01:01:25 -Using default implementation for ThreadExecutor
+2019-11-16 01:01:25 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 01:01:25 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 01:01:25 -RAMJobStore initialized.
+2019-11-16 01:01:25 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 01:01:25 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 01:01:25 -Quartz scheduler version: 2.3.2
+2019-11-16 01:01:25 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@d59cfe1
+2019-11-16 01:01:25 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 01:01:25 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 01:01:25 -Started AppApplication in 0.548 seconds (JVM running for 1427.757)
+2019-11-16 01:02:05 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-16 01:03:32 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 01:03:32 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 01:03:32 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 01:03:32 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 01:03:32 -Starting AppApplication on DESKTOP-BB5494M with PID 10292 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 01:03:32 -No active profile set, falling back to default profiles: default
+2019-11-16 01:03:33 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 01:03:33 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 01:03:33 -Starting service [Tomcat]
+2019-11-16 01:03:33 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 01:03:33 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 01:03:33 -Initializing Spring embedded WebApplicationContext
+2019-11-16 01:03:33 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 01:03:33 -Using default implementation for ThreadExecutor
+2019-11-16 01:03:33 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 01:03:33 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 01:03:33 -RAMJobStore initialized.
+2019-11-16 01:03:33 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 01:03:33 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 01:03:33 -Quartz scheduler version: 2.3.2
+2019-11-16 01:03:33 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@2988a080
+2019-11-16 01:03:33 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 01:03:33 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 01:03:33 -Started AppApplication in 0.456 seconds (JVM running for 1555.082)
+2019-11-16 01:03:42 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-16 06:50:40 -Starting AppApplication on DESKTOP-BB5494M with PID 8788 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 06:50:40 -No active profile set, falling back to default profiles: default
+2019-11-16 06:50:41 -http://javax.xml.XMLConstants/property/accessExternalDTD property not supported by org.apache.xerces.jaxp.DocumentBuilderFactoryImpl
+2019-11-16 06:50:41 -http://javax.xml.XMLConstants/property/accessExternalSchema property not supported by org.apache.xerces.jaxp.DocumentBuilderFactoryImpl
+2019-11-16 06:50:42 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 06:50:42 -Starting service [Tomcat]
+2019-11-16 06:50:42 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 06:50:43 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 06:50:43 -Initializing Spring embedded WebApplicationContext
+2019-11-16 06:50:43 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 06:50:44 -Using default implementation for ThreadExecutor
+2019-11-16 06:50:44 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 06:50:44 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 06:50:44 -RAMJobStore initialized.
+2019-11-16 06:50:44 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 06:50:44 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 06:50:44 -Quartz scheduler version: 2.3.2
+2019-11-16 06:50:44 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@7c7c78b5
+2019-11-16 06:50:44 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 06:50:44 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 06:50:44 -Started AppApplication in 4.31 seconds (JVM running for 5.041)
+2019-11-16 06:51:12 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-16 06:53:08 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 06:53:08 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 06:53:08 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 06:53:08 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 06:53:09 -Starting AppApplication on DESKTOP-BB5494M with PID 8788 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 06:53:09 -No active profile set, falling back to default profiles: default
+2019-11-16 06:53:09 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 06:53:09 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 06:53:09 -Starting service [Tomcat]
+2019-11-16 06:53:09 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 06:53:09 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 06:53:09 -Initializing Spring embedded WebApplicationContext
+2019-11-16 06:53:09 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 06:53:09 -Using default implementation for ThreadExecutor
+2019-11-16 06:53:09 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 06:53:09 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 06:53:09 -RAMJobStore initialized.
+2019-11-16 06:53:09 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 06:53:09 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 06:53:09 -Quartz scheduler version: 2.3.2
+2019-11-16 06:53:09 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@522c2b28
+2019-11-16 06:53:10 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 06:53:10 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 06:53:10 -Started AppApplication in 0.929 seconds (JVM running for 150.536)
+2019-11-16 06:58:11 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 06:58:11 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 06:58:11 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 06:58:11 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 06:58:11 -Starting AppApplication on DESKTOP-BB5494M with PID 8788 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 06:58:11 -No active profile set, falling back to default profiles: default
+2019-11-16 06:58:12 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 06:58:12 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 06:58:12 -Starting service [Tomcat]
+2019-11-16 06:58:12 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 06:58:12 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 06:58:12 -Initializing Spring embedded WebApplicationContext
+2019-11-16 06:58:12 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 06:58:12 -Using default implementation for ThreadExecutor
+2019-11-16 06:58:12 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 06:58:12 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 06:58:12 -RAMJobStore initialized.
+2019-11-16 06:58:12 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 06:58:12 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 06:58:12 -Quartz scheduler version: 2.3.2
+2019-11-16 06:58:12 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@1b01bcb5
+2019-11-16 06:58:12 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 06:58:12 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 06:58:12 -Started AppApplication in 0.817 seconds (JVM running for 453.081)
+2019-11-16 06:59:54 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 06:59:54 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 06:59:54 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 06:59:54 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 06:59:54 -Starting AppApplication on DESKTOP-BB5494M with PID 8788 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 06:59:54 -No active profile set, falling back to default profiles: default
+2019-11-16 06:59:55 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 06:59:55 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 06:59:55 -Starting service [Tomcat]
+2019-11-16 06:59:55 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 06:59:55 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 06:59:55 -Initializing Spring embedded WebApplicationContext
+2019-11-16 06:59:55 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 06:59:55 -Using default implementation for ThreadExecutor
+2019-11-16 06:59:55 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 06:59:55 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 06:59:55 -RAMJobStore initialized.
+2019-11-16 06:59:55 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 06:59:55 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 06:59:55 -Quartz scheduler version: 2.3.2
+2019-11-16 06:59:55 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@5119f202
+2019-11-16 06:59:55 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 06:59:55 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 06:59:55 -Started AppApplication in 0.724 seconds (JVM running for 556.094)
+2019-11-16 07:00:44 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-11-16 07:01:08 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 07:01:09 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 07:01:09 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 07:01:09 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 07:01:09 -Starting AppApplication on DESKTOP-BB5494M with PID 8788 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 07:01:09 -No active profile set, falling back to default profiles: default
+2019-11-16 07:01:09 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 07:01:09 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 07:01:09 -Starting service [Tomcat]
+2019-11-16 07:01:09 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 07:01:09 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 07:01:09 -Initializing Spring embedded WebApplicationContext
+2019-11-16 07:01:09 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 07:01:09 -Using default implementation for ThreadExecutor
+2019-11-16 07:01:09 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 07:01:09 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 07:01:09 -RAMJobStore initialized.
+2019-11-16 07:01:09 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 07:01:09 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 07:01:09 -Quartz scheduler version: 2.3.2
+2019-11-16 07:01:09 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@790e4fa
+2019-11-16 07:01:10 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 07:01:10 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 07:01:10 -Started AppApplication in 0.645 seconds (JVM running for 630.519)
+2019-11-16 07:02:25 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 07:02:25 -Scheduler quartzScheduler_$_NON_CLUSTERED shutting down.
+2019-11-16 07:02:25 -Scheduler quartzScheduler_$_NON_CLUSTERED paused.
+2019-11-16 07:02:25 -Scheduler quartzScheduler_$_NON_CLUSTERED shutdown complete.
+2019-11-16 07:02:26 -Starting AppApplication on DESKTOP-BB5494M with PID 8788 (G:\WebApp\WorkSpace-Oxygen\bootwebapp\target\classes started by Administrator in G:\WebApp\WorkSpace-Oxygen\bootwebapp)
+2019-11-16 07:02:26 -No active profile set, falling back to default profiles: default
+2019-11-16 07:02:26 -The MBean registry cannot be disabled because it has already been initialised
+2019-11-16 07:02:26 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-11-16 07:02:26 -Starting service [Tomcat]
+2019-11-16 07:02:26 -Starting Servlet engine: [Apache Tomcat/9.0.27]
+2019-11-16 07:02:26 -At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2019-11-16 07:02:26 -Initializing Spring embedded WebApplicationContext
+2019-11-16 07:02:26 -[THYMELEAF][restartedMain] Template Mode 'HTML5' is deprecated. Using Template Mode 'HTML' instead.
+2019-11-16 07:02:26 -Using default implementation for ThreadExecutor
+2019-11-16 07:02:26 -Initialized Scheduler Signaller of type: class org.quartz.core.SchedulerSignalerImpl
+2019-11-16 07:02:26 -Quartz Scheduler v.2.3.2 created.
+2019-11-16 07:02:26 -RAMJobStore initialized.
+2019-11-16 07:02:26 -Scheduler meta-data: Quartz Scheduler (v2.3.2) 'quartzScheduler' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'org.quartz.core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'org.quartz.simpl.SimpleThreadPool' - with 10 threads.
+  Using job-store 'org.quartz.simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+
+2019-11-16 07:02:26 -Quartz scheduler 'quartzScheduler' initialized from an externally provided properties instance.
+2019-11-16 07:02:26 -Quartz scheduler version: 2.3.2
+2019-11-16 07:02:26 -JobFactory set to: org.springframework.scheduling.quartz.SpringBeanJobFactory@541f3e26
+2019-11-16 07:02:26 -Scheduler quartzScheduler_$_NON_CLUSTERED started.
+2019-11-16 07:02:26 -Starting ProtocolHandler ["http-nio-8080"]
+2019-11-16 07:02:26 -Started AppApplication in 0.67 seconds (JVM running for 707.13)
+2019-11-16 07:02:33 -Initializing Spring DispatcherServlet 'dispatcherServlet'

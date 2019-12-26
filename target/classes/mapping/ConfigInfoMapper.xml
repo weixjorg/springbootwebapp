@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.temptation.dao.ConfigInfoMapper">
+  <resultMap id="BaseResultMap" type="cn.temptation.domain.ConfigInfo">
+    <id column="id" jdbcType="INTEGER" property="id" />
+    <result column="channelid" jdbcType="VARCHAR" property="channelid" />
+    <result column="wfwuaturl" jdbcType="VARCHAR" property="wfwuaturl" />
+    <result column="wfwcmisurl" jdbcType="VARCHAR" property="wfwcmisurl" />
+    <result column="oldurl" jdbcType="VARCHAR" property="oldurl" />
+    <result column="publickey" jdbcType="VARCHAR" property="publickey" />
+    <result column="privatekey" jdbcType="VARCHAR" property="privatekey" />
+    <result column="uatsupercode" jdbcType="VARCHAR" property="uatsupercode" />
+    <result column="uatcoopercode" jdbcType="VARCHAR" property="uatcoopercode" />
+    <result column="cmissupercode" jdbcType="VARCHAR" property="cmissupercode" />
+    <result column="cmiscoopercode" jdbcType="VARCHAR" property="cmiscoopercode" />
+    <result column="filepath" jdbcType="VARCHAR" property="filepath" />
+    <result column="wfwsiturl" jdbcType="VARCHAR" property="wfwsiturl" />
+    <result column="sitsupercode" jdbcType="VARCHAR" property="sitsupercode" />
+    <result column="sitcoopercode" jdbcType="VARCHAR" property="sitcoopercode" />
+    <result column="sitloantyp" jdbcType="VARCHAR" property="sitloantyp" />
+    <result column="uatloantyp" jdbcType="VARCHAR" property="uatloantyp" />
+    <result column="cmisloantyp" jdbcType="VARCHAR" property="cmisloantyp" />
+    <result column="descinfo" jdbcType="VARCHAR" property="descinfo" />
+  </resultMap>
+  <sql id="Base_Column_List">
+    id, channelid, wfwuaturl, wfwcmisurl, oldurl, publickey, privatekey, uatsupercode, 
+    uatcoopercode, cmissupercode, cmiscoopercode, filepath, wfwsiturl, sitsupercode, 
+    sitcoopercode, sitloantyp, uatloantyp, cmisloantyp, descinfo
+  </sql>
+  <!-- 1 -->
+  <select id="selectByPrimaryKey" parameterType="java.lang.Integer" resultMap="BaseResultMap">
+    select 
+    <include refid="Base_Column_List" />
+    from configinfo
+    where id = #{id,jdbcType=INTEGER}
+  </select>
+  
+  <delete id="deleteByPrimaryKey" parameterType="java.lang.Integer">
+    delete from configinfo
+    where id = #{id,jdbcType=INTEGER}
+  </delete>
+  <insert id="insert" parameterType="cn.temptation.domain.ConfigInfo">
+    insert into configinfo (id, channelid, wfwuaturl, 
+      wfwcmisurl, oldurl, publickey, 
+      privatekey, uatsupercode, uatcoopercode, 
+      cmissupercode, cmiscoopercode, filepath, 
+      wfwsiturl, sitsupercode, sitcoopercode, 
+      sitloantyp, uatloantyp, cmisloantyp, 
+      descinfo)
+    values (#{id,jdbcType=INTEGER}, #{channelid,jdbcType=VARCHAR}, #{wfwuaturl,jdbcType=VARCHAR}, 
+      #{wfwcmisurl,jdbcType=VARCHAR}, #{oldurl,jdbcType=VARCHAR}, #{publickey,jdbcType=VARCHAR}, 
+      #{privatekey,jdbcType=VARCHAR}, #{uatsupercode,jdbcType=VARCHAR}, #{uatcoopercode,jdbcType=VARCHAR}, 
+      #{cmissupercode,jdbcType=VARCHAR}, #{cmiscoopercode,jdbcType=VARCHAR}, #{filepath,jdbcType=VARCHAR}, 
+      #{wfwsiturl,jdbcType=VARCHAR}, #{sitsupercode,jdbcType=VARCHAR}, #{sitcoopercode,jdbcType=VARCHAR}, 
+      #{sitloantyp,jdbcType=VARCHAR}, #{uatloantyp,jdbcType=VARCHAR}, #{cmisloantyp,jdbcType=VARCHAR}, 
+      #{descinfo,jdbcType=VARCHAR})
+  </insert>
+  <insert id="insertSelective" parameterType="cn.temptation.domain.ConfigInfo">
+    insert into configinfo
+    <trim prefix="(" suffix=")" suffixOverrides=",">
+      <if test="id != null">
+        id,
+      </if>
+      <if test="channelid != null">
+        channelid,
+      </if>
+      <if test="wfwuaturl != null">
+        wfwuaturl,
+      </if>
+      <if test="wfwcmisurl != null">
+        wfwcmisurl,
+      </if>
+      <if test="oldurl != null">
+        oldurl,
+      </if>
+      <if test="publickey != null">
+        publickey,
+      </if>
+      <if test="privatekey != null">
+        privatekey,
+      </if>
+      <if test="uatsupercode != null">
+        uatsupercode,
+      </if>
+      <if test="uatcoopercode != null">
+        uatcoopercode,
+      </if>
+      <if test="cmissupercode != null">
+        cmissupercode,
+      </if>
+      <if test="cmiscoopercode != null">
+        cmiscoopercode,
+      </if>
+      <if test="filepath != null">
+        filepath,
+      </if>
+      <if test="wfwsiturl != null">
+        wfwsiturl,
+      </if>
+      <if test="sitsupercode != null">
+        sitsupercode,
+      </if>
+      <if test="sitcoopercode != null">
+        sitcoopercode,
+      </if>
+      <if test="sitloantyp != null">
+        sitloantyp,
+      </if>
+      <if test="uatloantyp != null">
+        uatloantyp,
+      </if>
+      <if test="cmisloantyp != null">
+        cmisloantyp,
+      </if>
+      <if test="descinfo != null">
+        descinfo,
+      </if>
+    </trim>
+    <trim prefix="values (" suffix=")" suffixOverrides=",">
+      <if test="id != null">
+        #{id,jdbcType=INTEGER},
+      </if>
+      <if test="channelid != null">
+        #{channelid,jdbcType=VARCHAR},
+      </if>
+      <if test="wfwuaturl != null">
+        #{wfwuaturl,jdbcType=VARCHAR},
+      </if>
+      <if test="wfwcmisurl != null">
+        #{wfwcmisurl,jdbcType=VARCHAR},
+      </if>
+      <if test="oldurl != null">
+        #{oldurl,jdbcType=VARCHAR},
+      </if>
+      <if test="publickey != null">
+        #{publickey,jdbcType=VARCHAR},
+      </if>
+      <if test="privatekey != null">
+        #{privatekey,jdbcType=VARCHAR},
+      </if>
+      <if test="uatsupercode != null">
+        #{uatsupercode,jdbcType=VARCHAR},
+      </if>
+      <if test="uatcoopercode != null">
+        #{uatcoopercode,jdbcType=VARCHAR},
+      </if>
+      <if test="cmissupercode != null">
+        #{cmissupercode,jdbcType=VARCHAR},
+      </if>
+      <if test="cmiscoopercode != null">
+        #{cmiscoopercode,jdbcType=VARCHAR},
+      </if>
+      <if test="filepath != null">
+        #{filepath,jdbcType=VARCHAR},
+      </if>
+      <if test="wfwsiturl != null">
+        #{wfwsiturl,jdbcType=VARCHAR},
+      </if>
+      <if test="sitsupercode != null">
+        #{sitsupercode,jdbcType=VARCHAR},
+      </if>
+      <if test="sitcoopercode != null">
+        #{sitcoopercode,jdbcType=VARCHAR},
+      </if>
+      <if test="sitloantyp != null">
+        #{sitloantyp,jdbcType=VARCHAR},
+      </if>
+      <if test="uatloantyp != null">
+        #{uatloantyp,jdbcType=VARCHAR},
+      </if>
+      <if test="cmisloantyp != null">
+        #{cmisloantyp,jdbcType=VARCHAR},
+      </if>
+      <if test="descinfo != null">
+        #{descinfo,jdbcType=VARCHAR},
+      </if>
+    </trim>
+  </insert>
+  <update id="updateByPrimaryKeySelective" parameterType="cn.temptation.domain.ConfigInfo">
+    update configinfo
+    <set>
+      <if test="channelid != null">
+        channelid = #{channelid,jdbcType=VARCHAR},
+      </if>
+      <if test="wfwuaturl != null">
+        wfwuaturl = #{wfwuaturl,jdbcType=VARCHAR},
+      </if>
+      <if test="wfwcmisurl != null">
+        wfwcmisurl = #{wfwcmisurl,jdbcType=VARCHAR},
+      </if>
+      <if test="oldurl != null">
+        oldurl = #{oldurl,jdbcType=VARCHAR},
+      </if>
+      <if test="publickey != null">
+        publickey = #{publickey,jdbcType=VARCHAR},
+      </if>
+      <if test="privatekey != null">
+        privatekey = #{privatekey,jdbcType=VARCHAR},
+      </if>
+      <if test="uatsupercode != null">
+        uatsupercode = #{uatsupercode,jdbcType=VARCHAR},
+      </if>
+      <if test="uatcoopercode != null">
+        uatcoopercode = #{uatcoopercode,jdbcType=VARCHAR},
+      </if>
+      <if test="cmissupercode != null">
+        cmissupercode = #{cmissupercode,jdbcType=VARCHAR},
+      </if>
+      <if test="cmiscoopercode != null">
+        cmiscoopercode = #{cmiscoopercode,jdbcType=VARCHAR},
+      </if>
+      <if test="filepath != null">
+        filepath = #{filepath,jdbcType=VARCHAR},
+      </if>
+      <if test="wfwsiturl != null">
+        wfwsiturl = #{wfwsiturl,jdbcType=VARCHAR},
+      </if>
+      <if test="sitsupercode != null">
+        sitsupercode = #{sitsupercode,jdbcType=VARCHAR},
+      </if>
+      <if test="sitcoopercode != null">
+        sitcoopercode = #{sitcoopercode,jdbcType=VARCHAR},
+      </if>
+      <if test="sitloantyp != null">
+        sitloantyp = #{sitloantyp,jdbcType=VARCHAR},
+      </if>
+      <if test="uatloantyp != null">
+        uatloantyp = #{uatloantyp,jdbcType=VARCHAR},
+      </if>
+      <if test="cmisloantyp != null">
+        cmisloantyp = #{cmisloantyp,jdbcType=VARCHAR},
+      </if>
+      <if test="descinfo != null">
+        descinfo = #{descinfo,jdbcType=VARCHAR},
+      </if>
+    </set>
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+  <update id="updateByPrimaryKey" parameterType="cn.temptation.domain.ConfigInfo">
+    update configinfo
+    set channelid = #{channelid,jdbcType=VARCHAR},
+      wfwuaturl = #{wfwuaturl,jdbcType=VARCHAR},
+      wfwcmisurl = #{wfwcmisurl,jdbcType=VARCHAR},
+      oldurl = #{oldurl,jdbcType=VARCHAR},
+      publickey = #{publickey,jdbcType=VARCHAR},
+      privatekey = #{privatekey,jdbcType=VARCHAR},
+      uatsupercode = #{uatsupercode,jdbcType=VARCHAR},
+      uatcoopercode = #{uatcoopercode,jdbcType=VARCHAR},
+      cmissupercode = #{cmissupercode,jdbcType=VARCHAR},
+      cmiscoopercode = #{cmiscoopercode,jdbcType=VARCHAR},
+      filepath = #{filepath,jdbcType=VARCHAR},
+      wfwsiturl = #{wfwsiturl,jdbcType=VARCHAR},
+      sitsupercode = #{sitsupercode,jdbcType=VARCHAR},
+      sitcoopercode = #{sitcoopercode,jdbcType=VARCHAR},
+      sitloantyp = #{sitloantyp,jdbcType=VARCHAR},
+      uatloantyp = #{uatloantyp,jdbcType=VARCHAR},
+      cmisloantyp = #{cmisloantyp,jdbcType=VARCHAR},
+      descinfo = #{descinfo,jdbcType=VARCHAR}
+    where id = #{id,jdbcType=INTEGER}
+  </update>
+  
+  <select id="getByChannelid" parameterType="java.lang.String" resultType="cn.temptation.domain.ConfigInfo">
+    select * from configinfo where channelid = #{channelid,jdbcType=VARCHAR}
+  </select>
+  
+  <select id="getAll"  resultType="cn.temptation.domain.ConfigInfo">
+         select * from configinfo  where 1=1
+  </select>
+</mapper>
